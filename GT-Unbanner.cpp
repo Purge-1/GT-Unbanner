@@ -1,5 +1,5 @@
 ﻿
-
+// I doubt this will work lol. I took me 5 mins please don't ask me for help I just made this for fun.
 #include "GT-Unbanner.h"
 
 using namespace std;
